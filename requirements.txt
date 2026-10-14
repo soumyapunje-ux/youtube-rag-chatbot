@@ -1,0 +1,16 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-dotenv
+youtube-transcript-api>=1.0.0
+langchain-core
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+
+# Frontend
+streamlit
+requests

@@ -1,0 +1,5 @@
+venv/
+.env
+*.env
+__pycache__/
+youtube_rag_langchain.py
